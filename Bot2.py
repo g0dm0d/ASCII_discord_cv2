@@ -45,4 +45,4 @@ async def on_message(ctx):
 			if isCreated:
 				await msg.send(content=frame)
 		i += 15
-client.run('ODQzMDUxOTI5MTE3NjU1MDUx.YJ-PSw.gPYoqsimHusYb5ioFPw4raL5-5c')
+client.run('token')
